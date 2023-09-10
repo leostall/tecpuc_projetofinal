@@ -1,6 +1,4 @@
-/*CÓDIFGO GERADO PELO CHAR GPT, DEVE TRABALHAR COM TRÊS MÓDULOS
-
-Os três módulos RC522 podem ser conectados aos seguintes pinos:
+/* Os três módulos RC522 podem ser conectados aos seguintes pinos:
 
 Módulo 1:
 
